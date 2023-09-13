@@ -4,7 +4,7 @@
   "description": "GithubActionsの練習用リポジトリ",
   "main": "index.js",
   "scripts": {
-    "Lint": "textlint *.md"
+    "textlint": "textlint *.md"
   },
   "keywords": [],
   "author": "",
