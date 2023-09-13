@@ -1,2 +1,2 @@
 # practice-github-actions
-GithubActionsの練習用リポジトリ
+GithubActionsの練習用リポジトリ。
